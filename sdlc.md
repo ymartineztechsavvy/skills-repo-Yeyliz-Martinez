@@ -1,3 +1,4 @@
+<img width="636" height="448" alt="image" src="https://github.com/user-attachments/assets/dc36f4f2-ae7c-4ec4-8b8f-eb3356729cca" />
 
 # Swimlane
 | Role                              | Requirements                                           | Design                          | Development                                        | Testing                                                              | Deployment                                               | Review                                                   |
