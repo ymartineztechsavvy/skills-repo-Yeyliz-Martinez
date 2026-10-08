@@ -1,8 +1,6 @@
 <img width="636" height="448" alt="image" src="https://github.com/user-attachments/assets/dc36f4f2-ae7c-4ec4-8b8f-eb3356729cca" />
 # RFP Project: Agile Methodology
 
-This document explains how our team applies the agile methodology in the software development life cycle (SDLC) for our RFP project.
-
 ## What is agile?
 
 Agile is an approach to building software in short, repeated cycles (usually called **sprints**, typically 1 to 4 weeks) instead of one long sequence.
