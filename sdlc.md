@@ -3,8 +3,6 @@
 
 This document explains how our team applies the agile methodology in the software development life cycle (SDLC) for our RFP project.
 
-![Agile methodology cycle](docs/agile-cycle.svg)
-
 ## What is agile?
 
 Agile is an approach to building software in short, repeated cycles (usually called **sprints**, typically 1 to 4 weeks) instead of one long sequence.
@@ -54,14 +52,6 @@ This is the step that closes the loop: review output becomes the requirements fo
 | Sprint 3 | 4 weeks | Deployment and review, ahead of the final product and presentation release | Upcoming |
 
 ## Repository structure
-
-```
-.
-├── README.md
-└── docs/
-    └── agile-cycle.svg
-```
-
 # Swimlane
 | Role                              | Requirements                                           | Design                          | Development                                        | Testing                                                              | Deployment                                               | Review                                                   |
 |-----------------------------------|--------------------------------------------------------|---------------------------------|----------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
